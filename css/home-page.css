@@ -43,7 +43,9 @@
   #introduction-container .bi:hover {
     opacity: 1;
   }
-  
+  #center{
+    text-align: left;
+  }
   
   /* About Me Section */
   #about-me-container .line {
